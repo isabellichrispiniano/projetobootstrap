@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color: #F2EAD3;
+}
+.menu-principal{
+    background-color: #DFD7BF;
+}
